@@ -12,52 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Vanica =====
-[1]Vanica      |07:29:34 | 17-10-2026| login OK @gvanicaa | score=1490 rank=4339
-[1]Vanica      |07:29:34 | 17-10-2026| serverTime=2026-10-17T07:29:34.000Z local=2026-10-17T07:29:34.700Z
+[1]Vanica      |07:44:32 | 18-10-2026| login OK @gvanicaa | score=1530 rank=4272
+[1]Vanica      |07:44:32 | 18-10-2026| serverTime=2026-10-18T07:44:32.000Z local=2026-10-18T07:44:32.856Z
 --> [1]Vanica menjalankan: Claim Daily
-[1]Vanica      |07:29:35 | 17-10-2026| daily: OK +10 poin score=1500
---> [1]Vanica menjalankan: Auto All Tasks (3 pending)
-[1]Vanica      |07:29:37 | 17-10-2026| [1/3] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/gvanicaa/status/2111358444553841827
-[1]Vanica      |07:29:37 | 17-10-2026| delay 10s...
-[1]Vanica      |07:29:48 | 17-10-2026| [2/3] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/gvanicaa/status/2111358434012008497
-[1]Vanica      |07:29:48 | 17-10-2026| delay 10s...
-[1]Vanica      |07:30:00 | 17-10-2026| [3/3] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/gvanicaa/status/2111358587644403985
-[1]Vanica      |07:30:00 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Vanica      |07:30:01 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110998758834286 | proof=https://x.com/gvanicaa/status/2111358548257111854
+[1]Vanica      |07:44:33 | 18-10-2026| daily: OK +10 poin score=1540
+--> [1]Vanica menjalankan: Auto All Tasks (5 pending)
+[1]Vanica      |07:44:35 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/gvanicaa/status/2111724834166843513
+[1]Vanica      |07:44:35 | 18-10-2026| delay 10s...
+[1]Vanica      |07:44:47 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/gvanicaa/status/2111724812469986348
+[1]Vanica      |07:44:47 | 18-10-2026| delay 10s...
+[1]Vanica      |07:45:00 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/gvanicaa/status/2111724862488899739
+[1]Vanica      |07:45:00 | 18-10-2026| delay 10s...
+[1]Vanica      |07:45:13 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Vanica      |07:45:13 | 18-10-2026| delay 10s...
+[1]Vanica      |07:45:25 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/gvanicaa/status/2111724822841906350
+[1]Vanica      |07:45:25 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Vanica      |07:45:26 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/gvanicaa/status/2111725053469761095
 --> [1]Vanica menjalankan: Watch Anime
-[1]Vanica      |07:30:02 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Vanica      |07:30:02 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Vanica      |07:30:03 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Vanica      |07:30:08 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Vanica      |07:30:10 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Vanica      |07:30:15 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Vanica      |07:30:16 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vanica      |07:45:27 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Vanica      |07:45:27 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Vanica      |07:45:29 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vanica      |07:45:34 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Vanica      |07:45:36 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vanica      |07:45:41 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Vanica      |07:45:43 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vanica      |07:45:48 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Vanica      |07:45:50 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Vanica menjalankan: Read Article
-[1]Vanica      |07:30:18 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Vanica      |07:30:18 | 17-10-2026| mint eligibility: {"userId":"1596223715494498304","youtube":{"url":"https://www.youtube.com/@vanicaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
-[1]Vanica      |07:30:18 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Vanica      |07:45:51 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Vanica      |07:45:52 | 18-10-2026| mint eligibility: {"userId":"1596223715494498304","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vanicaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Vanica      |07:45:52 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Vanica menjalankan: Quiz Anime
-[1]Vanica      |07:30:19 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Vanica      |07:30:19 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Vanica      |07:30:19 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Vanica      |07:30:19 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Vanica      |07:30:19 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Vanica      |07:30:19 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Vanica      |07:45:53 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Vanica      |07:45:53 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Vanica      |07:45:53 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Vanica      |07:45:53 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Vanica      |07:45:53 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Vanica      |07:45:53 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Vanica menjalankan: Music Missions (realtime, bisa lama!)
-[1]Vanica      |07:30:20 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Vanica      |07:30:21 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Vanica      |07:30:21 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Vanica      |07:30:21 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Vanica      |07:45:55 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Vanica      |07:45:56 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Vanica      |07:45:56 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Vanica      |07:45:56 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vanica menjalankan: Claim Missions
-[1]Vanica      |07:30:21 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Vanica      |07:30:21 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Vanica      |07:30:21 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Vanica      |07:45:57 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Vanica      |07:45:57 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Vanica      |07:45:57 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vanica menjalankan: Check Eligibility
 
 --- eligibility [1]Vanica ---
-  @gvanicaa | score=1490 rank=4339
-  tasks    [###################-] 78/81
+  @gvanicaa | score=1530 rank=4272
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Vanica menjalankan: Read Manga
-[1]Vanica      |07:30:26 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Vanica      |07:46:01 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Vanica menjalankan: Get Gift
-[1]Vanica      |07:30:26 | 17-10-2026| gift: 0/4 belum diterima
+[1]Vanica      |07:46:02 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Vanica menjalankan: Setup Profile
-[1]Vanica      |07:30:27 | 17-10-2026| profile: bio="Nothing" fav=kagura rewardAt=1791415763
-[1]Vanica      |07:30:27 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Vanica      |07:46:02 | 18-10-2026| profile: bio="Nothing" fav=kagura rewardAt=1791415763
+[1]Vanica      |07:46:02 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Vanica menjalankan: Bind Wallet
-[1]Vanica      |07:30:27 | 17-10-2026| wallet: sudah terikat E8xrmXYtfe... (solana)
+[1]Vanica      |07:46:03 | 18-10-2026| wallet: sudah terikat E8xrmXYtfe... (solana)
 
 == RINGKASAN ==
-- Vanica: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Vanica: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
