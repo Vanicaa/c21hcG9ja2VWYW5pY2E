@@ -12,41 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Vanica =====
-[1]Vanica      |10:38:09 | 04-11-2026| login OK @gvanicaa | score=2930 rank=2457
-[1]Vanica      |10:38:09 | 04-11-2026| serverTime=2026-11-04T10:38:09.000Z local=2026-11-04T10:38:09.148Z
+[1]Vanica      |10:30:02 | 05-11-2026| login OK @gvanicaa | score=2980 rank=2431
+[1]Vanica      |10:30:02 | 05-11-2026| serverTime=2026-11-05T10:30:02.000Z local=2026-11-05T10:30:02.415Z
 --> [1]Vanica menjalankan: Claim Daily
-[1]Vanica      |10:38:10 | 04-11-2026| daily: OK +10 poin score=2940
---> [1]Vanica menjalankan: Auto All Tasks (4 pending)
-[1]Vanica      |10:38:12 | 04-11-2026| [1/4] fefe8b6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211791169583858 | proof=https://x.com/gvanicaa/status/2117929049349337474
-[1]Vanica      |10:38:12 | 04-11-2026| delay 10s...
-[1]Vanica      |10:38:23 | 04-11-2026| [2/4] 9149dbd0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211791169583858 | proof=https://x.com/gvanicaa/status/2117928956088356890
-[1]Vanica      |10:38:23 | 04-11-2026| delay 10s...
-[1]Vanica      |10:38:36 | 04-11-2026| [3/4] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211791169583858 | proof=https://x.com/gvanicaa/status/2117929102105127481
-[1]Vanica      |10:38:36 | 04-11-2026| delay 10s...
-[1]Vanica      |10:38:48 | 04-11-2026| [4/4] 6608dad0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211791169583858 | proof=https://x.com/gvanicaa/status/2117928997677156561
-[1]Vanica      |10:38:48 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Vanica      |10:38:50 | 04-11-2026| [1/1] fefe8b6d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fefe8b6d-11ec-41bc-a662-dddeafc5068f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117911695838585 | proof=https://x.com/gvanicaa/status/2117929024692047776
+[1]Vanica      |10:30:03 | 05-11-2026| daily: OK +10 poin score=2990
+--> [1]Vanica menjalankan: Auto All Tasks (2 pending)
+[1]Vanica      |10:30:05 | 05-11-2026| [1/2] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/gvanicaa/status/2118289424197417531
+[1]Vanica      |10:30:05 | 05-11-2026| delay 10s...
+[1]Vanica      |10:30:17 | 05-11-2026| [2/2] 71a6b26f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/gvanicaa/status/2118289515563511285
+[1]Vanica      |10:30:17 | 05-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Vanica      |10:30:18 | 05-11-2026| [1/1] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118160028058399 | proof=https://x.com/gvanicaa/status/2118289221301052706
 --> [1]Vanica menjalankan: Watch Anime
-[1]Vanica      |10:38:50 | 04-11-2026| watch: semua video sudah completed
+[1]Vanica      |10:30:19 | 05-11-2026| watch: semua video sudah completed
 --> [1]Vanica menjalankan: Read Article
-[1]Vanica      |10:38:52 | 04-11-2026| news: 34/34 artikel selesai dibaca
-[1]Vanica      |10:38:52 | 04-11-2026| mint eligibility: {"userId":"1596223715494498304","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vanicaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
-[1]Vanica      |10:38:52 | 04-11-2026| news: semua artikel sudah dibaca
+[1]Vanica      |10:30:21 | 05-11-2026| news: 34/34 artikel selesai dibaca
+[1]Vanica      |10:30:21 | 05-11-2026| mint eligibility: {"userId":"1596223715494498304","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vanicaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Vanica      |10:30:21 | 05-11-2026| news: semua artikel sudah dibaca
 --> [1]Vanica menjalankan: Quiz Anime
 --> [1]Vanica menjalankan: Music Missions (realtime, bisa lama!)
-[1]Vanica      |10:38:55 | 04-11-2026| music: kedua misi sudah tercapai, stop
-[1]Vanica      |10:38:55 | 04-11-2026| mission music-listens-10: sudah diklaim
-[1]Vanica      |10:38:55 | 04-11-2026| mission music-minutes-30: sudah diklaim
-[1]Vanica      |10:38:55 | 04-11-2026| mission anime-completed-3: sudah diklaim
+[1]Vanica      |10:30:24 | 05-11-2026| music: kedua misi sudah tercapai, stop
+[1]Vanica      |10:30:26 | 05-11-2026| mission music-listens-10: sudah diklaim
+[1]Vanica      |10:30:26 | 05-11-2026| mission music-minutes-30: sudah diklaim
+[1]Vanica      |10:30:26 | 05-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vanica menjalankan: Claim Missions
-[1]Vanica      |10:38:56 | 04-11-2026| mission music-listens-10: sudah diklaim
-[1]Vanica      |10:38:56 | 04-11-2026| mission music-minutes-30: sudah diklaim
-[1]Vanica      |10:38:56 | 04-11-2026| mission anime-completed-3: sudah diklaim
+[1]Vanica      |10:30:27 | 05-11-2026| mission music-listens-10: sudah diklaim
+[1]Vanica      |10:30:27 | 05-11-2026| mission music-minutes-30: sudah diklaim
+[1]Vanica      |10:30:27 | 05-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vanica menjalankan: Check Eligibility
 
 --- eligibility [1]Vanica ---
-  @gvanicaa | score=2930 rank=2457
-  tasks    [#######-------------] 2/6
+  @gvanicaa | score=2980 rank=2431
+  tasks    [#######-------------] 1/3
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Vanica menjalankan: Read Manga
-[1]Vanica      |10:39:00 | 04-11-2026| manga: 0/13 chapter belum completed
+[1]Vanica      |10:30:31 | 05-11-2026| manga: 0/13 chapter belum completed
 --> [1]Vanica menjalankan: Get Gift
-[1]Vanica      |10:39:02 | 04-11-2026| gift: 3/9 belum diterima
-[1]Vanica      |10:39:03 | 04-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Vanica      |10:39:06 | 04-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Vanica      |10:39:09 | 04-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Vanica      |10:30:32 | 05-11-2026| gift: 3/9 belum diterima
+[1]Vanica      |10:30:33 | 05-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Vanica      |10:30:36 | 05-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Vanica      |10:30:39 | 05-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Vanica menjalankan: Setup Profile
-[1]Vanica      |10:39:11 | 04-11-2026| profile: bio="Nothing" fav=kagura rewardAt=1791415763
-[1]Vanica      |10:39:11 | 04-11-2026| profile: bonus sudah diklaim, skip
+[1]Vanica      |10:30:42 | 05-11-2026| profile: bio="Nothing" fav=kagura rewardAt=1791415763
+[1]Vanica      |10:30:42 | 05-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Vanica menjalankan: Bind Wallet
-[1]Vanica      |10:39:12 | 04-11-2026| wallet: sudah terikat E8xrmXYtfe... (solana)
+[1]Vanica      |10:30:43 | 05-11-2026| wallet: sudah terikat E8xrmXYtfe... (solana)
 
 == RINGKASAN ==
-- Vanica: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Vanica: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
